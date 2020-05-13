@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="FerrariRed">#F70D1A</color>
+    <color name="Scarlet">#FF2400</color>
+    <color name="GreenYellow">#B1FB17</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="MilkWhite">#FEFCEF</color>
+    <color name="Platinum">#E5E4E2</color>
+    <color name="LoveRed">#E41B17</color>
+    <color name="YellowRed">#ffffbd</color>
+    <color name="GhostWhite">#F8F8FF</color>
+</resources>
